@@ -4,6 +4,7 @@ Halo, saya Asa 👋
 Mahasiswa Teknik Informatika yang sedang belajar Python dan GUI.
 
 ## Project
+- Streamlit
 - Python GUI (Tkinter)
 - Tugas Pemrograman Dasar
 - Mini Project Kuliah
