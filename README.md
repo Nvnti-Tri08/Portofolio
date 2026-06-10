@@ -1,7 +1,7 @@
 # Portofolio
 
 Halo, saya Asa 👋  
-Mahasiswa Teknik Informatika yang sedang belajar Python dan GUI.
+Mahasiswa Teknik Informatika
 
 ## Project
 - Streamlit
